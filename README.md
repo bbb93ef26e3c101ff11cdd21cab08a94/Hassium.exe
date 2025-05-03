@@ -1,6 +1,7 @@
 # Hassium.exe
-A short destructive GDI malware made back in 2022 
-
+- 10 GDI Shaders
+- 8 Audio Sequences(bytebeats)
+  
 Changelog:
 - Added an icon which i should've used for esfera
 - Optimized the payloads to reduce cpu usage
